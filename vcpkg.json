@@ -1,0 +1,7 @@
+{
+  "name": "my-cpp-project",
+  "version": "0.1.0",
+  "dependencies": [
+    "fmt"
+  ]
+}
